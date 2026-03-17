@@ -1,3 +1,5 @@
+import streamlit as st
+
 st.title("🚗 주차 후보 찾기")
 st.write("가게 이름과 지역을 넣으면 주변 주차 후보를 어떻게 찾을지 보여준다.")
 
